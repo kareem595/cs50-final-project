@@ -1,5 +1,5 @@
 # Personal Digital Safe & Journal System
-#### Video Demo: [URL_HERE]
+#### Video Demo: [https://youtu.be/DrwLU01u2uI?si=XldjY_w91qEh8-iL]
 #### Description:
 The **Personal Digital Safe & Journal System** is a command-line application built in Python designed to provide secure text journaling and sensitive image encryption using symmetric encryption (Fernet from the `cryptography` library).
 
